@@ -10,6 +10,7 @@ What is a commit?
 
 Reponse A
 
+
 ### Question 2
 
 How can I find out the current state of a repository?
@@ -21,6 +22,7 @@ How can I find out the current state of a repository?
 
 Réponse C
 
+
 ### Question 3
 
 What is HEAD?
@@ -30,6 +32,7 @@ What is HEAD?
 - C. An interface for using git.
 
 Réponse B
+
 
 ### Question 4
 
@@ -42,6 +45,7 @@ A software forge like FramaGIT is :
 
 Réponse B
 
+
 ### Question 5
 
 Git allows you to :
@@ -53,6 +57,7 @@ Git allows you to :
 
 Réponse A
 
+
 ### Question 6
 
 Where are previous versions of files hidden in git?
@@ -62,6 +67,7 @@ Where are previous versions of files hidden in git?
 - C. In the /etc folder.
 
 Réponse B
+
 
 ### Question 7
 
@@ -73,6 +79,7 @@ To change branch we use:
 
 Réponse B
 
+
 ### Question 8
 
 Usually, what is the name of the main branch of a repository?
@@ -82,6 +89,7 @@ Usually, what is the name of the main branch of a repository?
 - C. `main`
 
 Réponse C (before if was A (master))
+
 
 ### Question 9
 
@@ -93,6 +101,7 @@ A branch is :
 
 Réponse B
 
+
 ### Question 10
 
 How can I find out what changes were made in the last commit?
@@ -102,3 +111,4 @@ How can I find out what changes were made in the last commit?
 - C. Use _Thonny_ to debug the code.
 
 Réponse A
+
