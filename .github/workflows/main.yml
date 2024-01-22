@@ -1,15 +1,13 @@
 on:
   push:
     branches:
-      - main
+    - main
 
 jobs:
   build:
-    runs-on: unbuntu-latest
-
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
       - name: Echo message
         run: echo "Workflow setup all good. Ready for next questions"
